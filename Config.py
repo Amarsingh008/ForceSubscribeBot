@@ -20,7 +20,7 @@ else:
     API_ID = "26494161"
     API_HASH = "55da841f877d16a3a806169f3c5153d3"
     BOT_TOKEN = "7793828619:AAHnY60vTcElNV_Trmd_DE6pKi7y_RKqRO8"
-    DATABASE_URL = "mongodb+srv://surajsam50:D1TRqN8CGWfQrBWK@cluster0.pwkld.mongodb.net/?retryWrites=true&w=majority"
+    DATABASE_URL = "mongodb+srv://lokendrasaini9galaxy:f0TVDwu5pVrHn5i6@cluster0.zseht.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = "StarkBots"
     if MUST_JOIN.startswith("@af_cinemax"):
